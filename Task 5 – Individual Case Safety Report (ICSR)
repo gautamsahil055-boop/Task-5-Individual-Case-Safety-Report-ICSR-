@@ -1,0 +1,361 @@
+Individual Case Safety Report (ICSR)
+
+1. Introduction
+
+An Individual Case Safety Report (ICSR) is a structured report containing information about one or more suspected adverse reactions experienced by an individual patient following exposure to a medicinal product.
+
+ICSRs are essential in pharmacovigilance for collecting, assessing, documenting, and reporting suspected adverse drug reactions (ADRs) to support medicine safety monitoring.
+
+2. Objectives
+
+- To understand the structure and purpose of an ICSR.
+- To identify and document a suspected adverse drug reaction.
+- To assess case validity and completeness.
+- To perform causality assessment using the Naranjo algorithm.
+- To classify the reaction based on severity and seriousness.
+- To evaluate expectedness using reference safety information.
+- To understand the principles of regulatory safety reporting.
+
+3. Case Study
+
+Note: The following patient case is fictional and created solely for educational purposes.
+
+Patient Information
+
+Parameter| Details
+Case ID| ICSR-001
+Patient initials| A.B.
+Age| 35 years
+Sex| Female
+Medical history| No relevant history reported
+Indication| Bacterial infection
+
+Suspected Drug Information
+
+Parameter| Details
+Drug name| Amoxicillin
+Drug class| Aminopenicillin antibiotic
+Indication| Bacterial infection
+Dose| 500 mg
+Route| Oral
+Frequency| Three times daily
+Therapy start| Day 1
+Therapy stop| Day 4
+
+The dose and treatment schedule are illustrative and do not constitute prescribing advice.
+
+Adverse Reaction Information
+
+Parameter| Details
+Adverse reaction| Skin rash and itching
+Onset| Day 2 of treatment
+Outcome| Recovered
+Action taken| Suspected drug discontinued
+Dechallenge| Positive; symptoms improved after discontinuation
+Rechallenge| Not performed
+Concomitant medication| None reported
+
+4. ADR Identification
+
+The patient developed a skin rash and itching after starting amoxicillin.
+
+The temporal relationship between drug administration and the onset of symptoms suggests a possible association with the suspected medicine.
+
+The event is documented as a suspected adverse drug reaction. A temporal association alone does not establish definitive causality.
+
+5. ICSR Minimum Validity Criteria
+
+A valid individual case safety report generally requires four essential elements:
+
+1. An identifiable patient.
+2. An identifiable reporter.
+3. A suspected medicinal product.
+4. A suspected adverse reaction.
+
+In this fictional case, patient details, the suspected drug, and the reaction are provided. A real report must also contain sufficient reporter identification and contact information to meet the applicable reporting requirements.
+
+6. Causality Assessment Using the Naranjo Algorithm
+
+The Naranjo algorithm is a questionnaire-based method used to assess the probability that an adverse event is related to a suspected drug.
+
+Question| Assessment| Score
+1. Are there previous conclusive reports of this reaction?| Yes| +1
+2. Did the reaction occur after the drug was administered?| Yes| +2
+3. Did the reaction improve after discontinuation?| Yes| +1
+4. Did the reaction reappear after readministration?| Unknown| 0
+5. Are there alternative causes that could have caused the reaction?| No alternative cause reported| +2
+6. Did the reaction reappear with placebo?| Unknown| 0
+7. Was the drug detected at toxic concentrations?| Unknown| 0
+8. Was there a dose-response relationship?| Unknown| 0
+9. Did the patient have a similar reaction to the same or similar drug previously?| Unknown| 0
+10. Was the reaction confirmed by objective evidence?| Yes; rash documented in the case| +1
+Total score| | 7
+
+Interpretation
+
+According to the Naranjo algorithm:
+
+- Definite: 9 or more
+- Probable: 5–8
+- Possible: 1–4
+- Doubtful: 0 or less
+
+Result: Probable association based on the illustrative information provided.
+
+This score is educational. In an actual case, the assessor must verify the evidence supporting each answer, especially previous reports and alternative causes.
+
+7. Severity and Seriousness Classification
+
+Severity
+
+Severity describes the intensity of the reaction.
+
+Classification: Mild — for this example, the rash and itching are assumed to be mild and not to interfere significantly with normal activities.
+
+Seriousness
+
+Seriousness is determined by regulatory outcome criteria, including:
+
+- Death
+- Life-threatening condition
+- Initial or prolonged hospitalization
+- Persistent or significant disability or incapacity
+- Congenital anomaly or birth defect
+- Other medically important condition
+
+Classification: Non-serious, based on the fictional case details, because none of these criteria is reported.
+
+Severity and seriousness are different concepts. A severe reaction may be non-serious, while a reaction of relatively low intensity may still meet a seriousness criterion.
+
+8. Expectedness Assessment
+
+Expectedness is assessed by comparing the nature and severity of the reported reaction with the applicable reference safety information, such as the approved product information.
+
+For this case:
+
+- Suspected reaction: Skin rash and itching
+- Reference safety information: Must be checked
+- Expectedness: To be determined after reviewing the applicable product information
+
+The reaction should not be labelled expected or unexpected without consulting the relevant reference document.
+
+9. ICSR Case Summary
+
+A 35-year-old female patient developed a skin rash and itching on Day 2 of treatment with oral amoxicillin 500 mg three times daily for a bacterial infection. The suspected medicine was discontinued on Day 4, after which the symptoms improved. Rechallenge was not performed. The reaction was classified as mild in severity and non-serious based on the information provided. The Naranjo algorithm produced a score of 7, indicating a probable association in this educational example. Expectedness requires verification against the applicable product information.
+
+10. Pharmacovigilance Reporting Process
+
+1. Receive the suspected adverse event report.
+2. Verify the four minimum ICSR validity elements.
+3. Collect relevant patient, reporter, drug, and reaction information.
+4. Assess the event and code the reaction using the applicable MedDRA terminology.
+5. Perform causality, seriousness, severity, and expectedness assessments.
+6. Enter the case into the pharmacovigilance database.
+7. Determine reporting obligations and timelines according to the applicable regulations.
+8. Submit the report to the relevant regulatory authority when required.
+9. Perform follow-up to obtain missing or additional information.
+10. Maintain accurate documentation and case records.
+
+11. Importance of ICSR in Pharmacovigilance
+
+- Supports the collection of individual safety reports.
+- Helps identify potential safety signals.
+- Contributes to ongoing benefit-risk evaluation.
+- Supports regulatory compliance.
+- Improves the quality and traceability of safety documentation.
+- Contributes to patient safety and the safe use of medicines.
+
+12. Conclusion
+
+The ICSR process provides a systematic approach to documenting and evaluating suspected adverse drug reactions. This case study demonstrates case validity, ADR identification, Naranjo causality assessment, severity and seriousness classification, expectedness evaluation, and the basic pharmacovigilance reporting workflow.
+
+13. References
+
+1. International Council for Harmonisation (ICH). E2A: Clinical Safety Data Management — Definitions and Standards for Expedited Reporting.
+2. International Council for Harmonisation (ICH). E2D: Post-Approval Safety Data Management — Definitions and Standards for Expedited Reporting.
+3. Uppsala Monitoring Centre. The WHO Programme for International Drug Monitoring.
+4. Naranjo CA, et al. A method for estimating the probability of adverse drug reactions. Clinical Pharmacology & Therapeutics. 1981;30(2):239–245.
+
+Disclaimer
+
+This repository is intended for educational purposes only. The case is fictional and does not represent a real patient report. Actual ICSR assessments and submissions must follow applicable regulatory requirements, validated procedures, and relevant product safety information.Individual Case Safety Report (ICSR)
+
+1. Introduction
+
+An Individual Case Safety Report (ICSR) is a structured report containing information about one or more suspected adverse reactions experienced by an individual patient following exposure to a medicinal product.
+
+ICSRs are essential in pharmacovigilance for collecting, assessing, documenting, and reporting suspected adverse drug reactions (ADRs) to support medicine safety monitoring.
+
+2. Objectives
+
+- To understand the structure and purpose of an ICSR.
+- To identify and document a suspected adverse drug reaction.
+- To assess case validity and completeness.
+- To perform causality assessment using the Naranjo algorithm.
+- To classify the reaction based on severity and seriousness.
+- To evaluate expectedness using reference safety information.
+- To understand the principles of regulatory safety reporting.
+
+3. Case Study
+
+Note: The following patient case is fictional and created solely for educational purposes.
+
+Patient Information
+
+Parameter| Details
+Case ID| ICSR-001
+Patient initials| A.B.
+Age| 35 years
+Sex| Female
+Medical history| No relevant history reported
+Indication| Bacterial infection
+
+Suspected Drug Information
+
+Parameter| Details
+Drug name| Amoxicillin
+Drug class| Aminopenicillin antibiotic
+Indication| Bacterial infection
+Dose| 500 mg
+Route| Oral
+Frequency| Three times daily
+Therapy start| Day 1
+Therapy stop| Day 4
+
+The dose and treatment schedule are illustrative and do not constitute prescribing advice.
+
+Adverse Reaction Information
+
+Parameter| Details
+Adverse reaction| Skin rash and itching
+Onset| Day 2 of treatment
+Outcome| Recovered
+Action taken| Suspected drug discontinued
+Dechallenge| Positive; symptoms improved after discontinuation
+Rechallenge| Not performed
+Concomitant medication| None reported
+
+4. ADR Identification
+
+The patient developed a skin rash and itching after starting amoxicillin.
+
+The temporal relationship between drug administration and the onset of symptoms suggests a possible association with the suspected medicine.
+
+The event is documented as a suspected adverse drug reaction. A temporal association alone does not establish definitive causality.
+
+5. ICSR Minimum Validity Criteria
+
+A valid individual case safety report generally requires four essential elements:
+
+1. An identifiable patient.
+2. An identifiable reporter.
+3. A suspected medicinal product.
+4. A suspected adverse reaction.
+
+In this fictional case, patient details, the suspected drug, and the reaction are provided. A real report must also contain sufficient reporter identification and contact information to meet the applicable reporting requirements.
+
+6. Causality Assessment Using the Naranjo Algorithm
+
+The Naranjo algorithm is a questionnaire-based method used to assess the probability that an adverse event is related to a suspected drug.
+
+Question| Assessment| Score
+1. Are there previous conclusive reports of this reaction?| Yes| +1
+2. Did the reaction occur after the drug was administered?| Yes| +2
+3. Did the reaction improve after discontinuation?| Yes| +1
+4. Did the reaction reappear after readministration?| Unknown| 0
+5. Are there alternative causes that could have caused the reaction?| No alternative cause reported| +2
+6. Did the reaction reappear with placebo?| Unknown| 0
+7. Was the drug detected at toxic concentrations?| Unknown| 0
+8. Was there a dose-response relationship?| Unknown| 0
+9. Did the patient have a similar reaction to the same or similar drug previously?| Unknown| 0
+10. Was the reaction confirmed by objective evidence?| Yes; rash documented in the case| +1
+Total score| | 7
+
+Interpretation
+
+According to the Naranjo algorithm:
+
+- Definite: 9 or more
+- Probable: 5–8
+- Possible: 1–4
+- Doubtful: 0 or less
+
+Result: Probable association based on the illustrative information provided.
+
+This score is educational. In an actual case, the assessor must verify the evidence supporting each answer, especially previous reports and alternative causes.
+
+7. Severity and Seriousness Classification
+
+Severity
+
+Severity describes the intensity of the reaction.
+
+Classification: Mild — for this example, the rash and itching are assumed to be mild and not to interfere significantly with normal activities.
+
+Seriousness
+
+Seriousness is determined by regulatory outcome criteria, including:
+
+- Death
+- Life-threatening condition
+- Initial or prolonged hospitalization
+- Persistent or significant disability or incapacity
+- Congenital anomaly or birth defect
+- Other medically important condition
+
+Classification: Non-serious, based on the fictional case details, because none of these criteria is reported.
+
+Severity and seriousness are different concepts. A severe reaction may be non-serious, while a reaction of relatively low intensity may still meet a seriousness criterion.
+
+8. Expectedness Assessment
+
+Expectedness is assessed by comparing the nature and severity of the reported reaction with the applicable reference safety information, such as the approved product information.
+
+For this case:
+
+- Suspected reaction: Skin rash and itching
+- Reference safety information: Must be checked
+- Expectedness: To be determined after reviewing the applicable product information
+
+The reaction should not be labelled expected or unexpected without consulting the relevant reference document.
+
+9. ICSR Case Summary
+
+A 35-year-old female patient developed a skin rash and itching on Day 2 of treatment with oral amoxicillin 500 mg three times daily for a bacterial infection. The suspected medicine was discontinued on Day 4, after which the symptoms improved. Rechallenge was not performed. The reaction was classified as mild in severity and non-serious based on the information provided. The Naranjo algorithm produced a score of 7, indicating a probable association in this educational example. Expectedness requires verification against the applicable product information.
+
+10. Pharmacovigilance Reporting Process
+
+1. Receive the suspected adverse event report.
+2. Verify the four minimum ICSR validity elements.
+3. Collect relevant patient, reporter, drug, and reaction information.
+4. Assess the event and code the reaction using the applicable MedDRA terminology.
+5. Perform causality, seriousness, severity, and expectedness assessments.
+6. Enter the case into the pharmacovigilance database.
+7. Determine reporting obligations and timelines according to the applicable regulations.
+8. Submit the report to the relevant regulatory authority when required.
+9. Perform follow-up to obtain missing or additional information.
+10. Maintain accurate documentation and case records.
+
+11. Importance of ICSR in Pharmacovigilance
+
+- Supports the collection of individual safety reports.
+- Helps identify potential safety signals.
+- Contributes to ongoing benefit-risk evaluation.
+- Supports regulatory compliance.
+- Improves the quality and traceability of safety documentation.
+- Contributes to patient safety and the safe use of medicines.
+
+12. Conclusion
+
+The ICSR process provides a systematic approach to documenting and evaluating suspected adverse drug reactions. This case study demonstrates case validity, ADR identification, Naranjo causality assessment, severity and seriousness classification, expectedness evaluation, and the basic pharmacovigilance reporting workflow.
+
+13. References
+
+1. International Council for Harmonisation (ICH). E2A: Clinical Safety Data Management — Definitions and Standards for Expedited Reporting.
+2. International Council for Harmonisation (ICH). E2D: Post-Approval Safety Data Management — Definitions and Standards for Expedited Reporting.
+3. Uppsala Monitoring Centre. The WHO Programme for International Drug Monitoring.
+4. Naranjo CA, et al. A method for estimating the probability of adverse drug reactions. Clinical Pharmacology & Therapeutics. 1981;30(2):239–245.
+
+Disclaimer
+
+This repository is intended for educational purposes only. The case is fictional and does not represent a real patient report. Actual ICSR assessments and submissions must follow applicable regulatory requirements, validated procedures, and relevant product safety information.
